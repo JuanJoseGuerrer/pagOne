@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #090913;
+}
+
+header {
+    background-image: url(/img/fondoheader1.jpg);
+    opacity: 0.5;
+    text-align: center;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    
+   
+}
+
+
+
+nav {
+    background-color: #2a2a4738;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+nav ul {
+    padding: 0;
+   
+
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+    
+    
+}
+
+
+.contenido {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    color: aliceblue;
+}
+
+footer {
+    background-color: #0303084d;
+    color: #f58940;
+    text-align: center;
+    padding: 10px;
+}
